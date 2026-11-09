@@ -2,7 +2,7 @@
 
 独立检索联合国文件（UNITE/ODS），并可按文号下载 PDF。主要访问 `search.un.org` 与 `documents.un.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/UNDocsSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/UNDocsSearcher>（私有）。
 
 ## 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 安装与自检
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/UNDocsSearcher.git "$env:USERPROFILE\.codex\skills\UNDocsSearcher"
+git clone https://github.com/HuiwowICCSkills/UNDocsSearcher.git "$env:USERPROFILE\.codex\skills\UNDocsSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\UNDocsSearcher\requirements.txt"
 & "$env:USERPROFILE\.codex\skills\UNDocsSearcher\run.ps1" doctor
 ```
