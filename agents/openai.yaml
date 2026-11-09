@@ -1,0 +1,4 @@
+interface:
+  display_name: "联合国文件（UNITE/ODS）检索"
+  short_description: "检索联合国文件索引与 ODS 文号 PDF"
+  default_prompt: "使用 $UNDocsSearcher 检索联合国文件；区分 UNITE 网站索引与 ODS 元数据，并按文号取 PDF 后报告页数。"
