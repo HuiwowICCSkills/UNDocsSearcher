@@ -2,7 +2,7 @@
 
 独立检索联合国文件（UNITE/ODS），并可按文号下载 PDF。主要访问 `search.un.org` 与 `documents.un.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/UNDocsSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/UNDocsSearcher>（公开）。
 
 ## 环境
 
